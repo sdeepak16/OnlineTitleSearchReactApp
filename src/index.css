@@ -1,0 +1,10 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+.formComps {
+  width: 250px;
+  padding: 10px;
+  margin: 10px;
+}
